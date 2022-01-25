@@ -58,7 +58,7 @@ Utilice su IDE de preferencia para efectuar esta acción
 ## Ejecución del programa de forma local
 Para la ejecución del programa de forma local se hace necesaria la instalación de Java Virtual Machine en [https://www.java.com/en/download/]. 
 Los pasos para la ejecución del programa de forma local son:
-- Copie el proyecto ubicado en XXXXXXXXXX
+- Copie el proyecto ubicado en https://github.com/sbateca/IOETTest.git
 - Dentro del proyecto encuentra un archivo denominado `input.txt`. Ubique este archivo en ``C:\``
 - Utilice el símbolo del sistema para ubicarse en la carpeta `IOET Test`
 - Escriba el siguiente comando:
